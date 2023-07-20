@@ -1,10 +1,10 @@
 let images = [
-    'https://github.com/annehanako/adrianofofinho/blob/main/adriano2.jpg?raw=true',
-    'https://github.com/annehanako/adrianofofinho/blob/main/adriano5.jpg?raw=true',
-    'https://github.com/annehanako/adrianofofinho/blob/main/adriano4.jpg?raw=true',
-    'https://github.com/annehanako/adrianofofinho/blob/main/adriano6.jpg?raw=true',
-    'https://github.com/annehanako/adrianofofinho/blob/main/adriano1.jpg?raw=true',
-    'https://github.com/annehanako/adrianofofinho/blob/main/adriano0.jpg?raw=true'
+    'https://github.com/annehanako/adrianofofinho/blob/main/imgs/adriano2.jpg?raw=true',
+    'https://github.com/annehanako/adrianofofinho/blob/main/imgs/adriano5.jpg?raw=true',
+    'https://github.com/annehanako/adrianofofinho/blob/main/imgs/adriano4.jpg?raw=true',
+    'https://github.com/annehanako/adrianofofinho/blob/main/imgs/adriano6.jpg?raw=true',
+    'https://github.com/annehanako/adrianofofinho/blob/main/imgs/adriano1.jpg?raw=true',
+    'https://github.com/annehanako/adrianofofinho/blob/main/imgs/adriano0.jpg?raw=true'
 
     
 ];
