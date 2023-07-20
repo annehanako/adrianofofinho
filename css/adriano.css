@@ -1,0 +1,25 @@
+
+.imgs {
+    display: flex;
+    flex-direction: row-reverse; 
+    align-items: center;
+    margin: 5rem auto;
+    flex-wrap: wrap;
+    border-style: ;
+
+  }
+  
+  .imgs #adrianetor0{
+    width: 30rem;
+  }
+
+  .imgs #adrianetor2{
+    width: 30rem;
+  }
+
+  .imgs #adrianetor3 {
+    width: 30rem;
+  }
+  
+  
+ 
